@@ -1,1 +1,2 @@
 This was a project I implemented with my friend Roshdy Ahmed in the Databases 1 course by Dr. Mervat Abuelkhier in the German University in Cairo, CS department.
+You can find milestone 1 description, milestone 1 implementation, which is the EERD and the relational schema designing the system, and milestone 2 description, as well as milestone 2 implementation the sql code building the database of the system.
